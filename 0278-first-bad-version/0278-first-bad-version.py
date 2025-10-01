@@ -10,7 +10,7 @@ class Solution:
             mid = (low + high)//2
 
             if isBadVersion(mid):
-                right =  mid
+                high =  mid
             
             else:
                 low = mid +1
