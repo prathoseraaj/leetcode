@@ -1,5 +1,5 @@
 # LeetCode 
- 
+
 ## Linked List Problems
 
 ## Easy
@@ -26,3 +26,41 @@
 ## Hard
 - [25 – Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)
 - [23 – Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
+
+---
+
+## Binary Search & Sorting
+
+### Easy
+- [278 – First Bad Version](https://leetcode.com/problems/first-bad-version/)
+- [35 – Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+
+### Medium
+- [34 – Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+- [162 – Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+
+### Hard
+- [4 – Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+
+---
+
+## Two Pointers & Sliding Window
+
+### Easy
+- [26 – Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- [283 – Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+- [977 – Squared Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+
+### Medium
+- [16 – 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+- [18 – 4Sum](https://leetcode.com/problems/4sum/)
+- [438 – Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+- [567 – Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+- [424 – Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+- [209 – Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+- [1004 – Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
+- [75 – Sort Colors](https://leetcode.com/problems/sort-colors/)
+
+### Hard
+- [239 – Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+- [992 – Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)
