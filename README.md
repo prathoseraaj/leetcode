@@ -1,5 +1,8 @@
 # LeetCode 
 
+## Links - https://leetcode.com/u/Prathoseraaj/ , https://www.geeksforgeeks.org/user/prathose/
+
+
 ## Linked List Problems
 
 ## Easy
