@@ -7,13 +7,10 @@ class Solution:
             window = nums[i:i+k]
             freq = Counter(window)
 
-            # Sort by (frequency desc, value desc)
             sorted_items = sorted(freq.items(), key=lambda y: (-y[1], -y[0]))
 
-            # Take top x elements
             top_x = sorted_items[:x]
 
-            # Sum based on occurrences
             total = sum(num * count for num, count in top_x)
             answer.append(total)
 
