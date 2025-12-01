@@ -8,7 +8,7 @@ class Solution:
         total = 0
         prev = 0
 
-        for char in s:
+        for char in reversed(s):
             value = roman[char]
             if value < prev:
                 total -= value
