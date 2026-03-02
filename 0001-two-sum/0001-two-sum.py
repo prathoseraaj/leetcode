@@ -3,10 +3,11 @@ class Solution:
 
         freq = {}
 
-        for i,num in enumerate(nums):
-            diff = target - num
+        for i,n in enumerate(nums):
+            diff = target - n
             if diff in freq:
                 return [freq[diff],i]
-            freq[num] = i
-            
+            freq[n] = i
+
+
         
